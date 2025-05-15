@@ -10,3 +10,17 @@ img{
     font-size: 25px;
     font-weight: bold;
 }
+
+.pricelist{
+    border: 1px solid black;
+}
+
+table{
+    border:1px solid black;
+    width: 100%;
+}
+
+td,th{
+    text-align: left;
+    padding: 8px;
+}
