@@ -1,6 +1,6 @@
 body{
     background-color: lightblue;
-    padding: ;
+    
 }
 
 
@@ -15,7 +15,7 @@ img{
 .pricetopic{
     font-size: 25px;
     font-weight: bold;
-    padding-top: 50px;
+    padding-top: 150px;
 }
 
 .pricelist{
@@ -29,7 +29,7 @@ table{
 
 td,th{
     text-align: left;
-    padding: 8px;
+    padding: 16px;
 }
 
 footer{
